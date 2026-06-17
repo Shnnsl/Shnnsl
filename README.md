@@ -1,16 +1,61 @@
-## Hi there 👋
+# Hi, I'm Nesil Sahin 👋
 
-<!--
-**Shnnsl/Shnnsl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 M.S. in Software Engineering Student  
+🏭 Lead Packing Technician with SAP and eBRS experience in manufacturing operations. 
+💻 Aspiring Software Engineer focused on Full Stack Development, Manufacturing Systems, and IoT  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Technical Skills
+
+**Languages**
+- Python
+- JavaScript
+- TypeScript
+- HTML
+- CSS
+- SQL
+
+**Frameworks & Tools**
+- FastAPI
+- Next.js
+- React
+- Git
+- GitHub
+- REST APIs
+
+---
+
+## 💼 Featured Projects
+
+### Smart Production Tracking System (SPTS)
+Manufacturing downtime tracking and OEE monitoring system.
+
+**Technologies:** FastAPI, HTML, CSS, JavaScript, REST APIs
+
+**Features:**
+- Downtime Tracking
+- Supervisor Approval Workflow
+- OEE Calculations
+- Production Dashboards
+- Role-Based Access
+
+🔗 Repository: https://github.com/Shnnsl/spts-capstone
+
+---
+
+### GiftSendingApp
+Personalized gift recommendation web application built with Next.js and TypeScript.
+
+🔗 Repository: https://github.com/Shnnsl/GiftSendingApp
+
+---
+
+## 🌱 Currently Learning
+- System Design
+- Cloud Technologies
+- Software Architecture
+- IoT Development
+
+## 📫 Contact
+GitHub: https://github.com/Shnnsl
